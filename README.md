@@ -1,5 +1,10 @@
-# 💫 About Me:
-Currently, I am studying and researching Deep Learning algorithms as well as data processing and analysis. I focus on post-processing tasks and leveraging models based on data predictions. I am passionate about exploring Data Science and AI, especially their applications in real-world problems.
+# 🌟 Hello World! I'm AlexNhat, Data Science Enthusiast! 🌟
+
+👨‍💻 Welcome to my GitHub space! I’m a passionate Data Scientist diving deep into the world of Deep Learning, data processing, and predictive modeling. With a keen interest in solving real-world challenges using AI, I’m constantly exploring cutting-edge algorithms and tools to turn raw data into actionable insights. Let’s connect and build something amazing together! 🚀
+
+- 🔭 Currently researching advanced Deep Learning techniques and post-processing workflows.
+- 🌱 Always learning to master Data Science tools and their practical applications.
+- 💡 Open to collaborations on AI-driven projects or data-driven innovations.
 
 
 # 💻 Tech Stack:
@@ -8,6 +13,13 @@ Currently, I am studying and researching Deep Learning algorithms as well as dat
 ![](https://github-readme-stats.vercel.app/api?username=AlexNhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AlexNhat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🐍 GitHub Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexNhat/AlexNhat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexNhat/AlexNhat/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AlexNhat/AlexNhat/output/github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlexNhat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
