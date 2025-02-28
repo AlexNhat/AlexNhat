@@ -1,6 +1,6 @@
 # 🌟 Hello! I'm Lê Nguyễn Anh Nhật
 
-👨‍💻 Welcome to my GitHub space! I’m a passionate Data Scientist diving deep into the world of Deep Learning, data processing, and predictive modeling. With a keen interest in solving real-world challenges using AI, I’m constantly exploring cutting-edge algorithms and tools to turn raw data into actionable insights. Let’s connect and build something amazing together! 🚀
+👨‍💻 Hello, I am Lê Nguyễn Anh Nhật, currently studying Data Science and set to graduate this year. I created this GitHub page to share my personal projects, which primarily focus on Natural Language Processing (NLP), Large Language Models (LLMs), Computer Vision, and related fields. I am deeply interested in applying data science and technology to address practical challenges. I look forward to connecting and collaborating with individuals or teams sharing similar goals to work on future projects.
 
 - 🔭 Currently researching advanced Deep Learning techniques and post-processing workflows.
 - 🌱 Always learning to master Data Science tools and their practical applications.
