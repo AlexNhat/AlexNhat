@@ -14,6 +14,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AlexNhat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐 My Alliances
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/nguyannhat) - Battleground of my data triumphs!  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/ANHNAT/) - Proving my coding prowess!  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://facebook.com/alexnhat2024) - Connect for epic collabs!
+
 ## 🐍 GitHub Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexNhat/AlexNhat/output/github-snake-dark.svg" />
