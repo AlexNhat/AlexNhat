@@ -1,4 +1,4 @@
-# 🌟 Hello World! I'm AlexNhat, Data Science Enthusiast! 🌟
+# 🌟 Hello World! I'm AlexNhat, Data Science!
 
 👨‍💻 Welcome to my GitHub space! I’m a passionate Data Scientist diving deep into the world of Deep Learning, data processing, and predictive modeling. With a keen interest in solving real-world challenges using AI, I’m constantly exploring cutting-edge algorithms and tools to turn raw data into actionable insights. Let’s connect and build something amazing together! 🚀
 
